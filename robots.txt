@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://official-emmanuel-jimenez-portfolio.vercel.app/sitemap.xml
